@@ -1,0 +1,5 @@
+2026-10-21 10:00:01 - INFO - User admin logged in successfully from 192.168.1.10
+2026-10-21 10:05:12 - FAILED LOGIN - Invalid password from 203.0.113.50
+2026-10-21 10:05:15 - FAILED LOGIN - Invalid password from 203.0.113.50
+2026-10-21 10:05:18 - FAILED LOGIN - Unauthorized access from 203.0.113.50
+2026-10-21 10:10:22 - WARNING - Connection attempt to port 3389 from 198.51.100.15
